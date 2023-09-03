@@ -6,7 +6,7 @@
 trigger:
 - main
 
-pool: mycomuteragent
+pool: mycomputeragent
   
 
 steps:
