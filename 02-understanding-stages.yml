@@ -6,7 +6,7 @@
 trigger:
 - main
 
-pool: mycomupteragent
+pool: mycomputeragent
 
 stages:
   - stage: Build
